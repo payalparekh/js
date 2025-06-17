@@ -26,7 +26,18 @@ const bignumber= 25455845684897546845n
 const heros=["abc","xyz","pqr"]
 
 //objects
-let myobj={
-    name:"abc",
-    age=20,
-}
+// let myobj={
+//     name:"abc",
+//     age=20
+// }
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++
+
+//Stack(Primitive) , heap(Non-Primitive)
+let myYoutubeName ="kjdkjsdotcom"
+let anothername = myYoutubeName 
+anothername="chaiaurcode"
+
+console.log(myYoutubeName);
+console.log(anothername);
